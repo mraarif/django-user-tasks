@@ -14,7 +14,13 @@ Change Log
 Unreleased
 ~~~~~~~~~~
 
-*
+<!--next-version-placeholder-->
+
+## v2.0.1 (2021-05-07)
+### Fix
+* Updated the workflow to checkout the target branch ([#119](https://github.com/mraarif/django-user-tasks/issues/119)) ([`1685621`](https://github.com/mraarif/django-user-tasks/commit/168562126b4b144e8bad601c69216a94cc5e451f))
+
+**[See all commits in this version](https://github.com/mraarif/django-user-tasks/compare/v2.0.0...v2.0.1)**
 
 [2.0.0] - 2021-01-20
 ~~~~~~~~~~~~~~~~~~~~
